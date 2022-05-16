@@ -1,12 +1,17 @@
-https://react-hook-form.com/ - cool form management
 
-https://react-query.tanstack.com/ - query 
-
-https://www.apollographql.com/docs/react/ - apollo
-
-https://github.com/pmndrs/zustand - state management (redux toolkit cool too)
-
-https://storybook.js.org/ - storybook
+# Cool features
 
 
-https://vitejs.dev/guide/#browser-support - (better use this than CRA)
+## Github
+
+- [Cool editor for README file](readme.so)
+
+## React
+
+
+- [Cool form management](https://react-hook-form.com/)
+- [Query](https://react-query.tanstack.com/)
+- [Apollo](https://www.apollographql.com/docs/react/)
+- [State managment for small project?](https://github.com/pmndrs/zustand)
+- [storybook](https://storybook.js.org/)
+- [Vite, react app builder](https://vitejs.dev/guide/#browser-support )
