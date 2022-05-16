@@ -4,7 +4,7 @@
 
 ## Github
 
-- [Cool editor for README file](readme.so)
+- [Cool editor for README file](https://readme.so/editor)
 
 ## React
 
