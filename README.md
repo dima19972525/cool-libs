@@ -17,4 +17,4 @@
 - [Vite, react app builder](https://vitejs.dev/guide/#browser-support )
 
 ## Resume
-- [Resume builder (2$)](https://resume.io/app)
+- [Resume builder](https://resume.io/app)
