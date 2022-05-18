@@ -1,5 +1,5 @@
 
-# Cool libs nad features
+# Cool libs and features
 
 
 ## Github
@@ -15,3 +15,6 @@
 - [State managment for small project?](https://github.com/pmndrs/zustand)
 - [storybook](https://storybook.js.org/)
 - [Vite, react app builder](https://vitejs.dev/guide/#browser-support )
+
+## Resume
+- [Resume builder (2$)](https://resume.io/app)
