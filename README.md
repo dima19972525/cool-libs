@@ -15,6 +15,8 @@
 - [State managment for small project?](https://github.com/pmndrs/zustand)
 - [storybook](https://storybook.js.org/)
 - [Vite, react app builder](https://vitejs.dev/guide/#browser-support )
+- [State machine (cool for backen entity state management)](https://xstate.js.org/docs/)
+
 
 ## Resume
 - [Resume builder](https://resume.io/app)
