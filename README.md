@@ -11,7 +11,7 @@
 
 - [Cool form management](https://react-hook-form.com/)
 - [Query](https://react-query.tanstack.com/)
-- [Apollo](https://www.apollographql.com/docs/react/)
+- [Apollo (another graphql clients good to: Relay, Urql)](https://www.apollographql.com/docs/react/)
 - [State managment for small project?](https://github.com/pmndrs/zustand)
 - [storybook](https://storybook.js.org/)
 - [Vite, react app builder](https://vitejs.dev/guide/#browser-support )
