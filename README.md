@@ -12,8 +12,8 @@
 - [Cool form management](https://react-hook-form.com/)
 - [Query](https://react-query.tanstack.com/)
 - [Apollo (another graphql clients are good to: Relay, Urql)](https://www.apollographql.com/docs/react/)
-- [State managment for small project?](https://github.com/pmndrs/zustand)
-- [Global easy state](https://jotai.org/)
+- [State managment for small project? (zustand)](https://github.com/pmndrs/zustand)
+- [Global easy state (jotai)](https://jotai.org/)
 - [storybook](https://storybook.js.org/)
 - [Vite, react app builder](https://vitejs.dev/guide/#browser-support )
 - [Compound components approach](https://dev.to/bqardi/compound-components-react-1ag8)
@@ -25,5 +25,5 @@
 - [Resume builder](https://resume.io/app)
 
 ## Backend
-- [State machine (cool for entity state management)](https://xstate.js.org/docs/)
+- [State machine (xstate)](https://xstate.js.org/docs/)
 
