@@ -27,3 +27,6 @@
 ## Backend
 - [State machine (xstate)](https://xstate.js.org/docs/)
 
+
+## Git\Eslint
+- [Commit convention (cool for libs)](https://www.conventionalcommits.org/en/v1.0.0/)
