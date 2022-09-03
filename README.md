@@ -32,3 +32,6 @@
 ## Git\Eslint
 - [Commit convention (cool for libs)](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Semantic versionning (cool for libs)](https://semver.org/)
+
+## Articles
+- [Before you memo](https://overreacted.io/before-you-memo/)
