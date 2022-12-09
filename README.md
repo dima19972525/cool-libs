@@ -27,6 +27,7 @@
 
 ## Backend
 - [State machine (xstate)](https://xstate.js.org/docs/)
+- [Zod - type validation with transforming to ts schema](https://github.com/colinhacks/zod)
 
 
 ## Git\Eslint
