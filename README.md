@@ -16,6 +16,7 @@
 - [Global easy state (jotai)](https://jotai.org/)
 - [storybook](https://storybook.js.org/)
 - [Vite, react app builder](https://vitejs.dev/guide/#browser-support )
+- [Vitest, lib for testing for vite apps (seems better than jest)] (https://vitest.dev/)
 - [Compound components approach](https://dev.to/bqardi/compound-components-react-1ag8)
 - [Video of file structure](https://youtu.be/UUga4-z7b6s)
 - [Best practices](https://levelup.gitconnected.com/react-code-conventions-and-best-practices-433e23ed69aa)
