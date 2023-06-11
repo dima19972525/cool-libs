@@ -29,7 +29,7 @@
 ## Backend
 - [State machine (xstate)](https://xstate.js.org/docs/)
 - [Zod - type validation with transforming to ts schema](https://github.com/colinhacks/zod)
-- [Fastify (better then express)](https://www.fastify.io/)
+- [Fastify (better than express)](https://www.fastify.io/)
 
 
 ## Git\Eslint
