@@ -31,6 +31,7 @@
 - [Zod - type validation with transforming to ts schema](https://github.com/colinhacks/zod)
 - [Fastify (better than express)](https://www.fastify.io/)
 - [Graphql adaprter for fastify](https://mercurius.dev/)
+- [https://nestjs.com/](Nest)
 
 
 ## Git\Eslint
