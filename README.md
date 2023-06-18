@@ -32,6 +32,7 @@
 - [Fastify (better than express)](https://www.fastify.io/)
 - [Graphql adaprter for fastify](https://mercurius.dev/)
 - [https://nestjs.com/](Nest)
+- [https://authjs.dev/](Auth.js)
 
 
 ## Git\Eslint
