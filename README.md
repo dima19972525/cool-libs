@@ -21,6 +21,7 @@
 - [Video of file structure](https://youtu.be/UUga4-z7b6s)
 - [Best practices](https://levelup.gitconnected.com/react-code-conventions-and-best-practices-433e23ed69aa)
 - [Deploy storybook UI in github actions](https://www.chromatic.com/)
+- [https://bun.sh/guides/ecosystem/vite](Bun with Vite?)
 
 
 ## Resume
@@ -33,6 +34,7 @@
 - [Graphql adaprter for fastify](https://mercurius.dev/)
 - [https://nestjs.com/](Nest)
 - [https://authjs.dev/](Auth.js)
+- [https://bun.sh/docs](Bun, to fast to be ignored for BE dev)
 
 
 ## Git\Eslint
