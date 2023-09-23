@@ -34,7 +34,7 @@
 - [Graphql adaprter for fastify](https://mercurius.dev/)
 - [Nest](https://nestjs.com/)
 - [Auth.js](https://authjs.dev/)
-- [Bun, to fast to be ignored for BE dev!!! (23.09.2023)](https://bun.sh/guides/ecosystem/vite)
+- [Bun, too fast to be ignored for BE dev 23.09.2023](https://bun.sh/guides/ecosystem/vite)
 
 
 ## Git\Eslint
