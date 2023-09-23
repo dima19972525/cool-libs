@@ -21,7 +21,7 @@
 - [Video of file structure](https://youtu.be/UUga4-z7b6s)
 - [Best practices](https://levelup.gitconnected.com/react-code-conventions-and-best-practices-433e23ed69aa)
 - [Deploy storybook UI in github actions](https://www.chromatic.com/)
-- [Bun with Vite?](https://bun.sh/guides/ecosystem/vite)
+- [Bun with Vite? 23.09.2023](https://bun.sh/guides/ecosystem/vite)
 
 
 ## Resume
@@ -32,9 +32,9 @@
 - [Zod - type validation with transforming to ts schema](https://github.com/colinhacks/zod)
 - [Fastify (better than express)](https://www.fastify.io/)
 - [Graphql adaprter for fastify](https://mercurius.dev/)
-- [https://nestjs.com/](Nest)
-- [https://authjs.dev/](Auth.js)
-- [https://bun.sh/docs](Bun, to fast to be ignored for BE dev)
+- [Nest](https://nestjs.com/)
+- [Auth.js](https://authjs.dev/)
+- [Bun, to fast to be ignored for BE dev!!! (23.09.2023)](https://bun.sh/guides/ecosystem/vite)
 
 
 ## Git\Eslint
