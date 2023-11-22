@@ -22,6 +22,7 @@
 - [Best practices](https://levelup.gitconnected.com/react-code-conventions-and-best-practices-433e23ed69aa)
 - [Deploy storybook UI in github actions](https://www.chromatic.com/)
 - [Bun with Vite? 23.09.2023](https://bun.sh/guides/ecosystem/vite)
+- [Preact signlas (store)? 22.11.2023](https://github.com/preactjs/signals)
 
 
 ## Resume
