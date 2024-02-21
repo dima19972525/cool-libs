@@ -24,6 +24,7 @@
 - [Bun with Vite? 23.09.2023](https://bun.sh/guides/ecosystem/vite)
 - [Preact signlas (store)? 22.11.2023](https://github.com/preactjs/signals)
 - [Library to build components 28.11.2023](https://react-spectrum.adobe.com/react-aria/)
+- [https://swc.rs/](SWC bundler for FE (better then babel))
 
 
 ## Resume
