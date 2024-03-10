@@ -25,7 +25,7 @@
 - [Preact signlas (store)? 22.11.2023](https://github.com/preactjs/signals)
 - [Library to build components 28.11.2023](https://react-spectrum.adobe.com/react-aria/)
 - [SWC bundler for FE (better then babel)](https://swc.rs/)
-# 2024
+### 2024
 - [Hype component (standalone components) library shadcn. Each component need to install independently 10.03.2024](https://ui.shadcn.com/)
 
 
