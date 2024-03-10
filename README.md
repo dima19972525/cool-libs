@@ -27,6 +27,7 @@
 - [SWC bundler for FE (better then babel)](https://swc.rs/)
 ### 2024
 - [Hype component (standalone components) library shadcn. Each component need to install independently 10.03.2024](https://ui.shadcn.com/)
+- [Comlilator for React (will be replaced with React 19)](https://million.dev/)
 
 
 ## Resume
